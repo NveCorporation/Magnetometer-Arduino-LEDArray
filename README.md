@@ -1,5 +1,5 @@
 # Magnetometer-Arduino-LEDArray
-A magnetometer drives a 144-LED NeoPixel array via an ArduinoMicro
+A magnetometer drives a 144-LED NeoPixel array via an ArduinoMicro board.
  
 Uses an AAL004-10E, the world’s smallest high-performance magnetometer IC. To show the output, we use a meter-long 144-LED array.
 
